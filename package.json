@@ -1,0 +1,20 @@
+{
+  "name": "easyerror",
+  "version": "0.1.1",
+  "description": "Generic Error Manager",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "error",
+    "manager",
+    "generic"
+  ],
+  "author": "Jorge Narváez",
+  "license": "MIT",
+  "dependencies": {
+    "@types/mocha": "^5.2.5",
+    "@types/node": "^10.7.1"
+  }
+}
